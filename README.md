@@ -1,2 +1,2 @@
-# 2022-pydata-global-seaborn
-Materials for the Data Visualisation with Seaborn tutorial at PyData Global 2022 
+# Data Visualisation with Seaborn - PyData Global 2022
+Tutorial at PyData Global 2022 by [Jumping Rivers](https://www.jumpingrivers.com/)
