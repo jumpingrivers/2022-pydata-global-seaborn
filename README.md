@@ -6,7 +6,7 @@ Tutorial at PyData Global 2022, by [Jumping Rivers](https://www.jumpingrivers.co
 ## Materials
 
 - [Notebooks](https://github.com/jumpingrivers/2022-pydata-global-seaborn/tree/main/docs)
-- [Slides](https://github.com/jumpingrivers/2022-pydata-global-seaborn/tree/main/slides)
+- [Slides](https://github.com/jumpingrivers/2022-pydata-global-seaborn/blob/main/introduction.pdf)
 
 
 ## Dependencies
